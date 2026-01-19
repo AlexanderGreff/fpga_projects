@@ -1,3 +1,4 @@
+
 ← [Back to IP overview](../README.md)  
 ← [Back to project root](../../../README.md)
 
@@ -11,35 +12,6 @@ with AXI-Lite control and dual framebuffers.
 
 - [`src/`](src/) — SystemVerilog RTL implementation
 - [`tb/`](tb/) — SystemVerilog testbenches (**primary engineering focus**)
-
-## Sprite Assets
-
-- [COE files](sprites/coe/)
-- [PNG sources](sprites/png/)
-- [Generated ROM IP](sprites/roms/)
-← [Back to IP overview](../README.md)  
-← [Back to project root](../../../README.md)
-
-# Custom Video Card IP
-
-## Overview
-Custom FPGA video card IP implementing a sprite-based rendering pipeline
-with AXI-Lite control and dual framebuffers.
-
-## Source Code & Verification (Core of This Project)← [Back to IP overview](../README.md)  
-← [Back to project root](../../../README.md)
-
-# Custom Video Card IP
-
-## Overview
-Custom FPGA video card IP implementing a sprite-based rendering pipeline
-with AXI-Lite control and dual framebuffers.
-
-## Source Code & Verification (Core of This Project)
-
-- [`src/`](src/) — SystemVerilog RTL implementation
-- [`tb/`](tb/) — SystemVerilog testbenches (**primary engineering focus**)
-
 
 ## Sprite Assets
 
@@ -62,7 +34,7 @@ Below are the sprite PNGs, scaled up for visibility, with their corresponding CO
 	</tr>
 	<tr>
 		<td>missile1.COE</td>
-		<td><img src="sprites/png/missile1_out.png" alt="missile1_out" style="image-rendering: pixelated; width:96px; height:96px;"></td>
+		<td><img src="sprites/png/missile1_out.png" alt="missile1_out" style="image-rendering: pixelated; width:32px; height:32px;"></td>
 	</tr>
 	<tr>
 		<td>ships1.COE</td>
@@ -115,7 +87,7 @@ Below are the sprite PNGs, scaled up for visibility, with their corresponding CO
 - [sprite_writer.sv](src/sprite_writer.sv): Writes sprite data to memory/framebuffer
 - [vga_controller.sv](src/vga_controller.sv): VGA signal generation and timing controller
 
-### [`tb/`](tb/) — SystemVerilog testbenches (**primary engineering focus**)
+### [`tb/`](tb/) — SystemVerilog testbenches
 
 - [clock_wiz_sim.sv](tb/clock_wiz_sim.sv): Simulation testbench for clock wizard IP
 - [director_tb.sv](tb/director_tb.sv): Testbench for the director module
