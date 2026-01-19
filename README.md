@@ -15,6 +15,8 @@ Custom FPGA-based video card featuring:
 - MicroBlaze firmware in C/C++
 - HDMI-compatible video output
 
+Project Demo Video: https://www.youtube.com/watch?v=jpvzLrDOIrw
+
 👉 **Start here:**  
 [Open the Video Card project README](video_card/README.md)
 
