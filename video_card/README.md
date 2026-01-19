@@ -12,7 +12,7 @@ and MicroBlaze firmware.
 
 ### Hardware
 - [Hardware overview](hw/README.md)
-  - [Custom Video Card IP](hw/ip/custom/README.md)
+  - **[Custom Video Card IP](hw/ip/custom/README.md) – Main Project Deliverable**
   - [Vendor IP](hw/ip/vendor/README.md)
   - [MicroBlaze Block Design](hw/mb_bd/README.md)
   - [Top-level SystemVerilog](hw/top/README.md)
