@@ -10,7 +10,7 @@ and MicroBlaze firmware.
 ### Architecture
 - [System diagrams](diagrams/README.md)
 
-### Hardware (Vivad0)
+### Hardware (Vivado)
 - [Hardware overview](hw/README.md)
   - **[Custom Video Card IP](hw/ip/custom/README.md) – Main SystemVerilog Deliverable**
   - [Vendor IP](hw/ip/vendor/README.md)
