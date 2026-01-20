@@ -12,7 +12,7 @@ FPGA design, embedded systems, and low-level software.
 
 ## Board Used:
 https://www.amd.com/en/corporate/university-program/aup-boards/realdigital-urbana-board.html  
-https://www.realdigital.org/hardware/urbana
+https://www.realdigital.org/hardware/urbana  
 **This board does not have an on-board SoC, the Microblaze SoC uses LUTs to create a soft-core processor in FPGA fabric.**
 
 ### Video Card – FPGA + MicroBlaze
