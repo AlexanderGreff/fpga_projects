@@ -5,7 +5,10 @@ FPGA design, embedded systems, and low-level software.
 
 ---
 
-## Featured Project
+## Board Used:
+https://www.amd.com/en/corporate/university-program/aup-boards/realdigital-urbana-board.html
+https://www.realdigital.org/hardware/urbana
+
 
 ### Video Card – FPGA + MicroBlaze
 
@@ -24,6 +27,7 @@ Project Demo Video: https://www.youtube.com/watch?v=jpvzLrDOIrw
 **Academic Use & Course Policy Notice**
 
 This repository is public with permission. However, use of this work is subject to the University of Illinois ECE 385 academic integrity policy.
+Course link: https://ece.illinois.edu/academics/courses/ece385
 
 At the time of writing, ECE 385 allows the use of publicly accessible code only if:
 
