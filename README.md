@@ -2,6 +2,8 @@
 
 This directory contains selected hardware/software projects focused on
 FPGA design, embedded systems, and low-level software.
+This is a final project for ECE 385 at the University of Illinous Urbana-Champaign
+Project Demo Video: https://www.youtube.com/watch?v=jpvzLrDOIrw
 
 ---
 
@@ -18,7 +20,7 @@ Custom FPGA-based video card featuring:
 - MicroBlaze firmware in C/C++
 - HDMI-compatible video output
 
-Project Demo Video: https://www.youtube.com/watch?v=jpvzLrDOIrw
+
 
 👉 **Start here:**  
 [Open the Video Card project README](video_card/README.md)
@@ -27,7 +29,6 @@ Project Demo Video: https://www.youtube.com/watch?v=jpvzLrDOIrw
 **Academic Use & Course Policy Notice**
 
 This repository is public with permission. However, use of this work is subject to the University of Illinois ECE 385 academic integrity policy.
-Course link: https://ece.illinois.edu/academics/courses/ece385
 
 At the time of writing, ECE 385 allows the use of publicly accessible code only if:
 
