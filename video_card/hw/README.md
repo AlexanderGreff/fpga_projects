@@ -1,4 +1,20 @@
+
 ← [Back to project root](../README.md)
+
+## Diagrams
+
+
+<p align="center">
+	<img src="../diagrams/microblaze-soc-block-diagram.png" alt="MicroBlaze SoC Block Diagram" style="max-width: 100%;" />
+	<br/>
+	<em>Figure 1: MicroBlaze SoC block diagram, custom IP in red</em>
+</p>
+
+<p align="center">
+	<img src="../diagrams/module_hierarchy.png" alt="HDMI Text Controller Datapath" style="max-width: 100%;" />
+	<br/>
+	<em>Figure 2: Custom IP datapath</em>
+</p>
 
 # Hardware Overview
 
