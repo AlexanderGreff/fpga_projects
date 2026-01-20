@@ -4,6 +4,15 @@
 
 MicroBlaze firmware controlling sprites, USB input, and game state.
 
+## MicroBlaze Software Architecture
+
+
+<p align="center">
+	<img src="../../diagrams/microblaze-sw-architecture.png" alt="MicroBlaze Software Architecture" style="width: 150%; height: 150%; max-width: none; max-height: none;" />
+</p>
+
+*Figure: MicroBlaze software architecture for sprite, USB, and game state control.*
+
 ## Source Files & Headers
 
 ### [include/](include/)
@@ -17,12 +26,10 @@ MicroBlaze firmware controlling sprites, USB input, and game state.
 - [platform.h](include/platform.h): Platform abstraction and hardware interface definitions.
 - [RegistersDef.h](include/RegistersDef.h): Register definitions for hardware communication.
 - [SpriteContainer.hpp](include/SpriteContainer.hpp): Manages all sprite objects and their states.
-- [SpriteInfo_c.h](include/SpriteInfo_c.h): C interface for sprite information structures.
-- [SpriteInfo.hpp](include/SpriteInfo.hpp): C++ header for sprite information and logic.
 - [SpriteRecord.hpp](include/SpriteRecord.hpp): Stores individual sprite records and attributes.
 
 ### [src/](src/)
 
 - [lw_usb_main.c](src/lw_usb_main.c): Main application logic for USB input and game control.
 - [platform.c](src/platform.c): Platform-specific initialization and hardware routines.
-- [SpriteInfo.cpp](src/SpriteInfo.cpp): C++ implementation of sprite information handling.
+- [SpriteInfo.cpp](src/SpriteInfo.cpp): C++ implementation and single compilation unit.
