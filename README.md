@@ -1,8 +1,8 @@
 # FPGA & Systems Projects
 
 This directory contains selected hardware/software projects focused on
-FPGA design, embedded systems, and low-level software.
-This is a final project for ECE 385 at the University of Illinous Urbana-Champaign
+FPGA design, embedded systems, and low-level software.  
+This is a final project for ECE 385 at the University of Illinous Urbana-Champaign  
 Project Demo Video: https://www.youtube.com/watch?v=jpvzLrDOIrw
 
 ---
