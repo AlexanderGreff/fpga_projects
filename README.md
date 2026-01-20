@@ -8,14 +8,16 @@ FPGA design, embedded systems, and low-level software.
 
 
 
-## Project Demo Video: https://www.youtube.com/watch?v=jpvzLrDOIrw
+## Project Demo Video:
+https://www.youtube.com/watch?v=jpvzLrDOIrw
 
 ## Board Used:
+**This board is not an SoC board and therfore does not have any hardened CPU, the Xilinx Microblaze SoC is a pure software IP that uses LUTs to create a soft-core processor in FPGA fabric.**
+
 https://www.amd.com/en/corporate/university-program/aup-boards/realdigital-urbana-board.html  
 https://www.realdigital.org/hardware/urbana  
-**This board does not have an on-board SoC, the Microblaze SoC uses LUTs to create a soft-core processor in FPGA fabric.**
 
-### Video Card – FPGA + MicroBlaze
+## Video Card – FPGA + MicroBlaze
 
 Custom FPGA-based video card featuring:
 - Sprite-based rendering pipeline
@@ -25,10 +27,21 @@ Custom FPGA-based video card featuring:
 
 
 
-👉 **Start here:**  
-[Open the Video Card project README](video_card/README.md)
+ ### Start here:
+[Open the Video Card project README](video_card/README.md)  
 
---
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+---
+
+
 **Academic Use & Course Policy Notice**
 
 This repository is public with permission. However, use of this work is subject to the University of Illinois ECE 385 academic integrity policy.
