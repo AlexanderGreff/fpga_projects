@@ -6,7 +6,7 @@ FPGA design, embedded systems, and low-level software.
 ---
 
 ## Board Used:
-https://www.amd.com/en/corporate/university-program/aup-boards/realdigital-urbana-board.html
+https://www.amd.com/en/corporate/university-program/aup-boards/realdigital-urbana-board.html  
 https://www.realdigital.org/hardware/urbana
 
 
