@@ -1,16 +1,19 @@
+**This is a final project for [ECE 385 at the University of Illinois Urbana-Champaign](https://ece.illinois.edu/academics/courses/ece385).**
+
+
 # FPGA & Systems Projects
 
 This directory contains selected hardware/software projects focused on
 FPGA design, embedded systems, and low-level software.  
-This is a final project for ECE 385 at the University of Illinois Urbana-Champaign  
-Project Demo Video: https://www.youtube.com/watch?v=jpvzLrDOIrw
 
----
+
+
+## Project Demo Video: https://www.youtube.com/watch?v=jpvzLrDOIrw
 
 ## Board Used:
 https://www.amd.com/en/corporate/university-program/aup-boards/realdigital-urbana-board.html  
 https://www.realdigital.org/hardware/urbana
-
+**This board does not have an on-board SoC, the Microblaze SoC uses LUTs to create a soft-core processor in FPGA fabric.**
 
 ### Video Card – FPGA + MicroBlaze
 
